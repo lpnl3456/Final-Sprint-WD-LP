@@ -1,0 +1,11 @@
+[
+    {"Name": "Super Mario Wonder", "ageRating": "E", "console": "Nintendo Switch", "Price": 79.99, "releaseDate": "October 20, 2023", "Genre": "Platformer"},
+    {"Name": "Civilization 6 Anthology", "ageRating": "E10", "console": "PC", "Price": 69.03, "releaseDate": "June 10, 2021", "Genre": "Strategy"},
+    {"Name": "Xenoblade Chronicles 3","ageRating": "T", "console": "Nintendo Switch", "Price": 79.99, "releaseDate": "July 29, 2022 ", "Genre": "ARPG"},
+    {"Name": "The Legend of Zelda: Breath of the Wild","ageRating": "E10", "consel": "Nintendo Switch", "Price": 79.99, "releaseDate": "March 3, 2017", "Genre": "Action/Adventure"},
+    {"Name": "Kingdom Hearts 3","ageRating": "E10", "console": "Playstation 4", "Price": 79.99, "releaseDate": "January 25, 2019", "Genre": "ARPG"},
+    {"Name": "Fire Emblem: Three Houses","ageRating": "T", "console": "Nintendo Switch", "Price": 79.99, "releaseDate": "July 26, 2019", "Genre": "Strategy"},
+    {"Name": "Spider-Man","ageRating": "T", "console": "Playstation 4", "Price": 79.99, "releaseDate": "September 7, 2018", "Genre": "Action/Adventure"},
+    {"Name": "The Legend of Zelda: Tears of the Kingdom","ageRating": "E10", "console": "Nintendo Switch", "Price": 89.99, "releaseDate": "May 12, 2023", "Genre": "Action/Adventure"}
+
+]   
